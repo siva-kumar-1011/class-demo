@@ -1,0 +1,5 @@
+Bodduru siva kumar 
+course - BCA
+
+
+GitHub is a cloud-based platform for software development and version control, utilizing Git for distributed version control. It serves as a central hub for developers to store, manage, and collaborate on code and other project files.GitHub leverages Git to track changes to files over time, allowing developers to revert to previous versions, compare changes, and manage different versions of a project concurrently.
